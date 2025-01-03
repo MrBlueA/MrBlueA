@@ -2,6 +2,7 @@
 ![Arturo's card name](https://cardivo.vercel.app/api?name=Arturo%20Guzmán%20Lucena&description=Hi%20there,%20I'm%20currently%20learning%20web%20development%20and%20angular,%20but%20trying%20to%20become%20fullstack%20%F0%9F%99%82&image=https://avatars.githubusercontent.com/u/81990026?s=400&u=ac2706652457c3f8f395a583c3ce30ba7874a1b3&v=4&backgroundColor=%23D0E0EC&linkedin=Arturo%20Guzmán%20Lucena&github=MrBlueA)
 
 Im currently working on improving my front-end skills and learning Angular with courses and doing projects with it :)
+I use star lists to organize my repositories so be sure to check them out if you want to take a look at them.
 
 <br><br>
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
